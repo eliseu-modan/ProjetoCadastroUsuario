@@ -1,8 +1,7 @@
 import React from "react";
 import '../pages/User.css'
 
-export default props=>
-
+const User = () =>
 <div className="User">
 <div id="Usuarionome">Usuarios Cadastrados</div>
 
@@ -38,3 +37,6 @@ export default props=>
   </tbody>
 </table>
     </div>
+
+
+export default User
