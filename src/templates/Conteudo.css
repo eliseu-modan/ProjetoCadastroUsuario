@@ -1,0 +1,206 @@
+.conteudo{
+    position: absolute;
+    top: 35px;
+    left: 420px;
+    background-color: rgb(255, 255, 255);
+    padding: 200px;
+    padding-right: 850px;
+    padding-bottom: 470px;
+    border: solid 2PX black;
+}
+#nomeUsuario{
+    position: absolute;
+    font-size: large;
+    font-size: 40px;
+    top: 60px;
+    left: 60px;
+    color: black;
+    background-color:rgb(255, 255, 255);
+}
+#login{
+    position: absolute;
+    left:890px;
+    top: 60px;
+    padding:30px ;
+    border-radius: 10px;
+    background-color: rgb(149,0,29);
+    color: white;
+}
+
+.form .row{
+    position: absolute;
+    left: 130px;
+    top: 250px;
+    background-color: aliceblue;
+    width: 145px;
+}
+#nomeform  {
+background-color: white;
+
+}
+#nomeform{
+    font-size: larger;
+    font-size: 30px;
+}
+#placeNome{
+    position: absolute;
+    top: 0px;
+    left: 120px;
+    padding: 10px;
+    padding-right: 90px;
+    padding-left: 90px;
+background-color: white ;
+}
+#emailform{
+position: absolute;
+top: 100px;    
+left: 0px;
+font-size: larger;
+    font-size: 30px;
+}
+#emailform {
+    background-color: rgb(255, 255, 255);
+}
+#placeEmail{
+    position: absolute;
+    top: 100px;
+    left:150px;
+    padding: 10px;
+    padding-right: 90px;
+    padding-left: 90px;
+background-color: white ;
+}
+
+.rowButton{
+    position:absolute;
+    top: 550px;
+    left: 800px;
+    background-color: rgb(171, 20, 20);
+}
+
+
+#salvar{
+    position: absolute;
+    left:0px;
+    top: 10px;
+    padding:15px ;
+    border-radius: 10px;
+    background-color: rgb(149,0,29);
+    color: white;
+}
+#cancelar{
+    position: absolute;
+    left:100px;
+    top: 10px;
+    padding:15px ;
+    border-radius: 10px;
+    background-color: rgb(149,0,29);
+    color: white;
+}
+
+.Login{
+position: absolute;
+/* left: px; */
+top: 120px;
+padding: 200px;
+background-color: rgb(149,0,29);
+z-index: 10;
+display: none;
+opacity: 75%;
+border-radius: 35px;
+}
+#informaçoes{
+    
+    position: absolute;
+    top: 20px;
+    left: 170px;
+    background-color: rgb(149,0,29);
+    font-size: larger;
+    font-size: 25px;
+    color: white;
+}
+.forlogin{
+    position: absolute;
+    background-color: rgb(149,0,29);
+    padding: 60px;
+    padding-bottom: 120px;
+    left: 35px;
+    top: 80px;
+}
+
+#nomelogin{
+    font-size: larger;
+    color: white;
+    background-color: rgb(149,0,29);
+    font-size: 25px;
+}
+#placelogin{
+position: absolute;
+left: 165px;
+top: 50px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+}
+#nomelogin2{
+    position: absolute;
+    top: 150px;
+    left: 65px;
+    font-size: larger;
+    color: white;
+    background-color: rgb(149,0,29);
+    font-size: 25px;
+}
+#placelogin2{
+    position: absolute;
+left: 165px;
+top: 140px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+}
+
+#inscrever{
+    position: absolute;
+    top: 275px;
+    left: 200px;
+    color: white;
+    background-color: rgb(149,0,29);
+    border-style: none;
+    /* border: solid 1px white; */
+    font-size: larger;
+    font-size: 15px;
+    width: 150px;
+    border-radius: 34px;
+    
+}
+#Entrar{
+    position: absolute;
+    top: 210px;
+    left: 70px;
+    color: white;
+    background-color: rgb(149,0,29);
+    border: solid 1px white;
+    font-size: larger;
+    font-size: 15px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 35px;
+}
+
+#Cancelar{
+    position: absolute;
+    top: 210px;
+    left: 250px;
+    color: white;
+    background-color: rgb(149,0,29);
+    border: solid 1px white;
+    font-size: larger;
+    font-size: 15px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 35px;
+}
+#efetuarLogin{
+    background-color: rgb(149,0,29);
+    border-style: none;
+    color: aliceblue;
+}

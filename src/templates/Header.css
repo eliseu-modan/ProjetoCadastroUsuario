@@ -1,0 +1,29 @@
+.header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 180px;
+    padding-bottom: 560px;
+    background-color: rgb(145, 0, 29);
+    border: solid 2px rgb(255, 255, 255);
+}
+.home{
+position: absolute;
+top: 60px;
+left: 12px;
+border: solid 2px rgb(255, 255, 255);
+border-radius: 10px;
+padding: 15px;
+padding-right: 150px;
+padding-left: 130px;
+}
+.users {
+    position: absolute;
+top: 140px;
+left: 12px;
+border: solid 2px rgb(255, 255, 255);
+border-radius: 10px;
+padding: 15px;
+padding-right: 140px;
+padding-left: 120px;
+}
